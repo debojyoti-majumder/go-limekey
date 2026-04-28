@@ -1,0 +1,3 @@
+- Should be able to create a user with name and password
+- I should be able to create domains
+- And domain should have applications
